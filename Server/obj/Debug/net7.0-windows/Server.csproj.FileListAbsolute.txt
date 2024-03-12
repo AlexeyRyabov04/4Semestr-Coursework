@@ -1,0 +1,49 @@
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\Server.exe
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\Server.deps.json
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\Server.runtimeconfig.json
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\Server.dll
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\Server.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\ChatLibrary.dll
+D:\Курсовая 4 сем\test design\Курсовая\Server\bin\Debug\net7.0-windows\ChatLibrary.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.ServerForm.resources
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.GenerateResource.cache
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.AssemblyInfo.cs
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.CopyComplete
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.dll
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\refint\Server.dll
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\Server.genruntimeconfig.cache
+D:\Курсовая 4 сем\test design\Курсовая\Server\obj\Debug\net7.0-windows\ref\Server.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.exe
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.dll.config
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.deps.json
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.runtimeconfig.json
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\Server.pdb
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\Server\bin\Debug\net7.0-windows\ChatLibrary.pdb
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.ServerForm.resources
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.GenerateResource.cache
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.AssemblyInfo.cs
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.csproj.CopyComplete
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.dll
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\refint\Server.dll
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.pdb
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\Server.genruntimeconfig.cache
+D:\Курсовая 4 сем\Курсовая\Server\obj\Debug\net7.0-windows\ref\Server.dll
