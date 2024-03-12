@@ -1,0 +1,46 @@
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\Client.exe
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\Client.deps.json
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\Client.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\Client.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\ChatLibrary.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\ChatLibrary.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.ChatForm.resources
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.GenerateResource.cache
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.CopyComplete
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\refint\Client.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.pdb
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\ref\Client.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Курсовая 4 сем\test design\Курсовая\Client\obj\Debug\net7.0-windows\Client.LoginForm.resources
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\Client.exe
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\Client.deps.json
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\Client.runtimeconfig.json
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\Client.dll
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\Client.pdb
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\Client\bin\Debug\net7.0-windows\ChatLibrary.pdb
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.ChatForm.resources
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.LoginForm.resources
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.GenerateResource.cache
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.AssemblyInfo.cs
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.csproj.CopyComplete
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.dll
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\refint\Client.dll
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.pdb
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.genruntimeconfig.cache
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\ref\Client.dll
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.Properties.Resources.resources
+D:\Курсовая 4 сем\Курсовая\Client\obj\Debug\net7.0-windows\Client.CreateChatForm.resources

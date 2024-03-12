@@ -1,0 +1,24 @@
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.deps.json
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.dll
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.pdb
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.AssemblyInfo.cs
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.dll
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\refint\ChatLibrary.dll
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.pdb
+D:\Курсовая 4 сем\test design\Курсовая\ChatLibrary\obj\Debug\net7.0\ref\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.deps.json
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\bin\Debug\net7.0\ChatLibrary.pdb
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.csproj.AssemblyReference.cache
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.AssemblyInfoInputs.cache
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.AssemblyInfo.cs
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.csproj.CoreCompileInputs.cache
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\refint\ChatLibrary.dll
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ChatLibrary.pdb
+D:\Курсовая 4 сем\Курсовая\ChatLibrary\obj\Debug\net7.0\ref\ChatLibrary.dll
